@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <string name="app_name">qeuBot</string>
+    <string name="app_version">Versie\u0020</string>
+    <string name="acc_desc">Om qeuBot te laten werken is het vereist dat dit aan staat. Uw privacy wordt behouden en er wordt geen enkele data opgeslagen.</string>
+    <string name="ok">OKE</string>
+    <string name="cancel">Annuleren</string>
+    <string name="premium">U bent al een Premium gebruiker</string>
+    <string name="not_premium">U moet de app kopen om deze functie te kunnen gebruiken</string>
+    <string name="tampered">U gebruikt mogelijk een aangepaste app. Premium functies zullen hierdoor niet werken.</string>
+    <string name="do_not_pirate">Gebruik de app alstublieft niet op illegale wijze. De aankoop gaat niet door zolang de piraterende apps niet zijn verwijderd.</string>
+    <string name="storage_perm">Om bestanden opde SD Kaart op te slaan is toestemming nodig tot uw opslag. Als u dit niet toestaat is het mogelijk dat de app niet goed functioneerd.</string>
+    <string name="loading">Laden..</string>
+    <string name="via_qeubot">- via qeuBot</string>
+
+    <!-- Dictionary User Agent -->
+    <string name="template_user_agent" formatted="false">"%s/%s (Linux; Android)"</string>
+
+    <!-- Preference Categories -->
+    <string name="gen_pref_cat">Algemeen</string>
+    <string name="news_pref_cat">Nieuws</string>
+    <string name="bing_pref_cat">Bing</string>
+    <string name="giphy_pref_cat">Gifs</string>
+    <string name="about_pref_cat">Over</string>
+    <string name="extra_pref_cat">Extras</string>
+    <string name="wikipedia_pref_cat">Wikipedia</string>
+    <string name="translators_pref_cat">Vertalers</string>
+    <string name="settings_pref_cat">Instellingen</string>
+
+    <!-- Preference Titles -->
+    <string name="append_title">Voeg de app naam toe aan het resultaat</string>
+    <string name="auto_send_result_title">Verzend resultaat automatisch</string>
+    <string name="accessibility_title">Toegankelijkheid service</string>
+    <string name="news_number_title">Aantal artikelen om weer te geven</string>
+    <string name="theme_title">Donker Thema</string>
+    <string name="bing_safe_title">Veilig Zoeken</string>
+    <string name="bing_count_title">Aantal resultaten om weer te geven</string>
+    <string name="bing_api_title">Bing API Sleutel</string>
+    <string name="original_gif_title">Krijg hogere kwaliteit GIFs</string>
+    <string name="developer_title">Ontwikkelaar</string>
+    <string name="email_title">Mail Onwikkelaar</string>
+    <string name="rate_title">Beoordeel app</string>
+    <string name="guide_title">Bekijk handleiding</string>
+    <string name="buy_title">Koop App</string>
+    <string name="wa_title">Kies onoffici\ële WhatsApp Mod</string>
+    <string name="show_toast_title">Geef een melding bij het invoeren</string>
+    <string name="wiki_language_title">Stel Wikipedia taal in</string>
+
+    <!-- Preference Summaries -->
+    <string name="append_sum">Voegt de app naam toe aan het eind van het resultaat</string>
+    <string name="auto_send_result_sum">Verstuur de resultaten automatisch</string>
+    <string name="accessibility_on_sum">Toegankelijkheid service is ingeschakeld</string>
+    <string name="accessibility_off_sum">De Toegangeklijkheid service is uitgeschakeld. Schakel het in om de app weer te laten functioneren.</string>
+    <string name="theme_sum">Gebruik een donker thema in de app</string>
+    <string name="bing_api_sum">Vul API Key in om gebruik te maken van Bing services</string>
+    <string name="original_gif_sum">Dit zorgt ervoor dat het laden mogelijk 3 keer zo lang duurt (niet aanbevolen)</string>
+    <string name="developer_sum">EatHeat</string>
+    <string name="email_sum">Stuur mij gerust een mail als je graag iets nieuws wilt zien of een fout wil rapporteren</string>
+    <string name="rate_sum">Beoordeel alstublieft de app als u de app fijn vind</string>
+    <string name="buy_sum">Koop de app om alle functies te kunnen gebruiken</string>
+    <string name="show_toast_sum">Handig wanneer je niet zeker weet of de actie is gestart of niet (slome internet verbinding, etc.)</string>
+
+    <!-- Imdb Parameters -->
+    <string name="imdb_year">Jaar:\u0020</string>
+    <string name="imdb_released">Vrijgegeven:\u0020</string>
+    <string name="imdb_rated">Beoordeling:\u0020</string>
+    <string name="imdb_runtime">Duur:\u0020</string>
+    <string name="imdb_genre">Genre:\u0020</string>
+    <string name="imdb_director">Regisseur:\u0020</string>
+    <string name="imdb_writer">Schrijver:\u0020</string>
+    <string name="imdb_actors">Acteurs:\u0020</string>
+    <string name="imdb_plot">Verhaal:\u0020</string>
+    <string name="imdb_language">Taal:\u0020</string>
+    <string name="imdb_country">Land:\u0020</string>
+    <string name="imdb_awards">Prijzen:\u0020</string>
+    <string name="imdb_metascore">Metascore:\u0020</string>
+    <string name="imdb_rating">imdbRating:\u0020</string>
+    <string name="imdb_link">Link:\u0020</string>
+    <string name="imdb_t_meter">TomatoMeter:\u0020</string>
+    <string name="imdb_t_rating">Tomato Beoordeling:\u0020</string>
+    <string name="imdb_t_user_rating">Tomato Gebruikersbeoordeling:\u0020</string>
+
+    <!-- Bing -->
+    <string name="bing_safe_off">Uit</string>
+    <string name="bing_safe_moderate">Middelmatig</string>
+    <string name="bing_safe_strict">Streng</string>
+
+    <!-- WhatsApp -->
+    <string name="wa_official">Offici\ële WhatsApp (com.whatsapp)</string>
+    <string name="wa_gb">GBWhatsApp (com.gbwhatsapp)</string>
+    <string name="wa_yo">YoWhatsApp (com.yowhatsapp)</string>
+
+    <!-- Weather Parameters -->
+    <string name="weather_date">Datum:\u0020</string>
+    <string name="weather_text">Weer:\u0020</string>
+    <string name="weather_temperature">Temperatuur:\u0020</string>
+    <string name="weather_wind_speed">Wind Snelheid:\u0020</string>
+    <string name="weather_wind_chill">Gevoelstemperatuur:\u0020</string>
+    <string name="weather_humidity">Luchvochtigheid:\u0020</string>
+    <string name="weather_pressure">Luchtdruk:\u0020</string>
+    <string name="weather_visibility">Zichtbaarheid:\u0020</string>
+    <string name="weather_day">Dag\u0020</string>
+    <string name="weather_temperature_lowest">Laagste Temperatuur:\u0020</string>
+    <string name="weather_temperature_highest">Hoogste Temperatuur:\u0020</string>
+
+    <!-- Error Parameters -->
+    <string name="connect_failed">Verbinden mislukt</string>
+    <string name="parse_failed">Parseren mislukt</string>
+    <string name="location_failed">Locatie niet gevonden</string>
+
+    <!-- Introduction Titles -->
+    <string name="it_wiki">Wikipedia</string>
+    <string name="it_calculator">Rekenmachine</string>
+    <string name="it_news">Nieuws</string>
+    <string name="it_imdb">IMDb</string>
+    <string name="it_giphy">Gif</string>
+    <string name="it_bing">Bing Afbeeldingen</string>
+    <string name="it_weather">Weer</string>
+    <string name="it_horoscope">Horoscoop</string>
+
+    <!-- Introduction Summaries -->
+    <string name="is_wiki">Gebruik de @wiki opdracht om de inhoud van ieder Wikipeidia artikel op te vragen \n\nVoorbeeld: Parijs @wiki</string>
+    <string name="is_calculator">Gebruik de @calc opdracht om een berikening uit te voeren in het tekstvak. Ondersteunt optellen, aftrekken, vermenigvuldigen, delen en aakjes \n\nVoorbeeld: (96/8) - 9*5 @calc</string>
+    <string name="is_news">Gebruik de @news opdracht om nieuws op te vragen over een onderwerp \n\nVoorbeeld:: Android @news</string>
+    <string name="is_imdb">Gebruik de @imdb opdracht om film beoordelingen op te halen.Ondersteund ook Rotten Tomatoes \n\Voorbeeld: Inception @imdb</string>
+    <string name="is_giphy">Gebruik de @gif opdracht om gifs op te halen \n\nVoorbeeld: Katten @gif</string>
+    <string name="is_bing">Gebruik de @pic opdracht om afbeeldingen op te halen van Bing \n\nVoorbeeld: Emma Watson @pic</string>
+    <string name="is_weather">Gebruik de @weather opdracht om het weer van de huidige dag en de weersvoorspelling voor de komende 5 dagen op te vragen. Ook kun je elke mogelijke stad invullen \n\nVoorbeeld: Amsterdam @weather, Amsterdam @forecast</string>
+    <string name="is_horoscope">Gebruik de @horoscope opdracht om de dagelijkse horoscoop op te vragen \n\nVoorbeeld: Sagittarius @horoscope</string>
+
+</resources>
